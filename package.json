@@ -1,0 +1,19 @@
+{
+  "name": "calculator.js",
+  "version": "1.0.0",
+  "description": "Basic calculator made with js,css,html.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilhan0909/JavaScript_Calculator.git"
+  },
+  "author": "İlhanBayramoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilhan0909/JavaScript_Calculator/issues"
+  },
+  "homepage": "https://github.com/ilhan0909/JavaScript_Calculator#readme"
+}
