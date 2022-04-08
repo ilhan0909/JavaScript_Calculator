@@ -50,10 +50,11 @@ class Calculator {
           break
         case '%':
           computation = (prev / 100 ) * current
-          break  
+          break
         default:
-          return
+          return computation
       }
+
       this.currentOperand = computation.toString()//it works without to.String() too
       this.operation = undefined
       this.previousOperand = ''
