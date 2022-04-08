@@ -1,2 +1,2 @@
 # JavaScript_Calculator
- Basic calculator made with js,css,html
+ Basic calculator with keyboard support.Created with js,css,html.
